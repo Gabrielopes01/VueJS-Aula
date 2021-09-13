@@ -1,0 +1,24 @@
+vue --version = Ver a versão do VUE
+vue create guiaclientes   = Criar um projeto VUE
+yarn/npm serve   = Abre o ambiente de desenvolvimento
+npm run build   = Deixa o projeto pronto para produção
+laravel new vue-env  = Criar programa laravel
+composer require laravel/ui   = Para inserir dependencias para o uso do vue
+php artisan ui vue   =  Instalar tudo para o funcionamento do vue
+npm install
+npm run dev
+npm run watch  = Gera builds automaticos
+
+
+yarn global add @vue/cli   - Instala o CLI do Vue global
+
+
+
+yarn add vue-router  = Adiciona o Router
+
+VueX é um tipo de arquitetura (View chama um evento, podendo ser de uma API, e depois o mutator vai alterar a View)
+
+
+{variavel : true ou false} - Exibe ou não
+
+yarn run build - Gera o arquivo para produção
